@@ -1,2 +1,0 @@
-# redux-sandbox
-App Redux
